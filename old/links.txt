@@ -1,0 +1,7 @@
+mangodb docs: https://www.mongodb.com/docs/atlas/
+node.js guide: https://www.nodebeginner.org/
+react guide: https://fullstackopen.com/en/part1
+deployment: https://render.com/docs
+github guide: https://youtu.be/S7XpTAnSDL4?si=uu9eCWXsZpvJx1QE
+docker guide: https://youtu.be/GFgJkfScVNU?si=lPUBK8WDWrvGgkLG
+Roadmaps: https://roadmap.sh/
